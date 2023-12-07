@@ -1,0 +1,15 @@
+D:\prashant\Dot_Net\LINQExamples\bin\Debug\net7.0\LINQExamples.exe
+D:\prashant\Dot_Net\LINQExamples\bin\Debug\net7.0\LINQExamples.deps.json
+D:\prashant\Dot_Net\LINQExamples\bin\Debug\net7.0\LINQExamples.runtimeconfig.json
+D:\prashant\Dot_Net\LINQExamples\bin\Debug\net7.0\LINQExamples.dll
+D:\prashant\Dot_Net\LINQExamples\bin\Debug\net7.0\LINQExamples.pdb
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.csproj.AssemblyReference.cache
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.AssemblyInfoInputs.cache
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.AssemblyInfo.cs
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.csproj.CoreCompileInputs.cache
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.dll
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\refint\LINQExamples.dll
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.pdb
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\LINQExamples.genruntimeconfig.cache
+D:\prashant\Dot_Net\LINQExamples\obj\Debug\net7.0\ref\LINQExamples.dll
